@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=671
+
+Light background, gentle colours. Looks best on gvim, but
+I've also tried to make it look reasonable on 16- and
+8-colour terminals because I have to use those also. I
+haven't been able to test on many different terminals
+however.
+
